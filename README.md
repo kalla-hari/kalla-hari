@@ -86,6 +86,7 @@ Explore my repositories for hands-on projects, experiments, and technical implem
 Projects Repository
 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/hari-kalla-54301826a
+
 Email: kallahari1303@gmail.com | kalla.workspace@gmail.com 
 
 Code. Learn. Build. Test. Improve.
